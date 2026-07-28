@@ -10,6 +10,13 @@ Rather than collecting random notes or completing isolated courses, this project
 
 Every document, project and architecture decision included here represents a step in that journey.
 
+## Projects
+
+| Project                                                                       | Description                                     |
+| ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| [HomeCloud Platform](https://github.com/eloriente/homecloud-platform)         | Self-hosted platform engineering laboratory     |
+| [Engineering Playground](https://github.com/eloriente/engineering-playground) | Design patterns, DDD and software craftsmanship |
+
 ## Core Pillars
 
 - 🏗️ Software Architecture
@@ -29,13 +36,6 @@ Projects/
 Engineering Journal/
 Templates/
 ```
-
-## Projects
-
-| Project                | Description                                     |
-| ---------------------- | ----------------------------------------------- |
-| HomeCloud Platform     | Self-hosted platform engineering laboratory     |
-| Engineering Playground | Design patterns, DDD and software craftsmanship |
 
 ## Engineering Principles
 
